@@ -16,9 +16,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -39,9 +39,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -61,9 +61,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -83,9 +83,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -105,9 +105,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -127,9 +127,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -150,9 +150,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -173,9 +173,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -196,9 +196,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -219,9 +219,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -242,9 +242,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -266,9 +266,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -290,9 +290,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -314,9 +314,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -335,9 +335,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -356,9 +356,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -380,9 +380,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -404,9 +404,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -428,9 +428,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -452,9 +452,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -475,9 +475,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -498,9 +498,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -521,9 +521,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -542,9 +542,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -563,9 +563,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -587,9 +587,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -611,9 +611,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -636,9 +636,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -661,9 +661,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -682,9 +682,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "focus your breath to stay present in the pose",
+      "engage your whole body to support the shape",
+      "maintain steady effort without forcing"
     ],
     "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
   },
@@ -703,9 +703,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "focus your breath to stay present in the pose",
+      "engage your whole body to support the shape",
+      "maintain steady effort without forcing"
     ],
     "embedding_text": "Wheel Pose Urdhva Dhanurasana: peak pose targeting full body. Intensity 5 with fiery energy."
   },
@@ -724,9 +724,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "slow your breath to signal the body to relax",
+      "release your muscles gradually to unwind effort",
+      "support your spine with the mat or props"
     ],
     "embedding_text": "Supine Twist Supta Matsyendrasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
   },
@@ -745,9 +745,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "slow your breath to signal the body to relax",
+      "release your muscles gradually to unwind effort",
+      "support your spine with the mat or props"
     ],
     "embedding_text": "Happy Baby Ananda Balasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
   },
@@ -766,9 +766,9 @@
     "contraindications": [],
     "base_duration_min": 5,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "allow your body to fully relax into support",
+      "release your muscles completely with each exhale",
+      "rest your weight downward to encourage recovery"
     ],
     "embedding_text": "Legs Up the Wall Viparita Karani: restorative pose targeting full body. Intensity 1 with calm energy."
   },
@@ -787,9 +787,9 @@
     "contraindications": [],
     "base_duration_min": 5,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "allow your body to fully relax into support",
+      "release your muscles completely with each exhale",
+      "rest your weight downward to encourage recovery"
     ],
     "embedding_text": "Corpse Pose Savasana: restorative pose targeting full body. Intensity 1 with calm energy."
   },
@@ -810,9 +810,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -833,9 +833,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -855,9 +855,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -877,9 +877,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -899,9 +899,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -921,9 +921,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -944,9 +944,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -967,9 +967,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -990,9 +990,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1013,9 +1013,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1036,9 +1036,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1060,9 +1060,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1084,9 +1084,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1108,9 +1108,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1129,9 +1129,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -1150,9 +1150,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -1174,9 +1174,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -1198,9 +1198,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -1222,9 +1222,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -1246,9 +1246,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -1269,9 +1269,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -1292,9 +1292,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -1315,9 +1315,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -1336,9 +1336,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -1357,9 +1357,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -1381,9 +1381,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -1405,9 +1405,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -1430,9 +1430,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -1455,9 +1455,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -1476,9 +1476,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "focus your breath to stay present in the pose",
+      "engage your whole body to support the shape",
+      "maintain steady effort without forcing"
     ],
     "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
   },
@@ -1497,9 +1497,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "focus your breath to stay present in the pose",
+      "engage your whole body to support the shape",
+      "maintain steady effort without forcing"
     ],
     "embedding_text": "Wheel Pose Urdhva Dhanurasana: peak pose targeting full body. Intensity 5 with fiery energy."
   },
@@ -1518,9 +1518,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "slow your breath to signal the body to relax",
+      "release your muscles gradually to unwind effort",
+      "support your spine with the mat or props"
     ],
     "embedding_text": "Supine Twist Supta Matsyendrasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
   },
@@ -1539,9 +1539,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "slow your breath to signal the body to relax",
+      "release your muscles gradually to unwind effort",
+      "support your spine with the mat or props"
     ],
     "embedding_text": "Happy Baby Ananda Balasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
   },
@@ -1560,9 +1560,9 @@
     "contraindications": [],
     "base_duration_min": 5,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "allow your body to fully relax into support",
+      "release your muscles completely with each exhale",
+      "rest your weight downward to encourage recovery"
     ],
     "embedding_text": "Legs Up the Wall Viparita Karani: restorative pose targeting full body. Intensity 1 with calm energy."
   },
@@ -1581,9 +1581,9 @@
     "contraindications": [],
     "base_duration_min": 5,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "allow your body to fully relax into support",
+      "release your muscles completely with each exhale",
+      "rest your weight downward to encourage recovery"
     ],
     "embedding_text": "Corpse Pose Savasana: restorative pose targeting full body. Intensity 1 with calm energy."
   },
@@ -1604,9 +1604,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -1627,9 +1627,9 @@
     "contraindications": [],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward to create space for breath",
+      "ground your sit bones down to feel stable",
+      "soften your shoulders away from your ears"
     ],
     "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
   },
@@ -1649,9 +1649,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -1671,9 +1671,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -1693,9 +1693,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -1715,9 +1715,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "move your spine through its full range of motion",
+      "circle your shoulders to release tension",
+      "coordinate your breath with your movement"
     ],
     "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
   },
@@ -1738,9 +1738,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1761,9 +1761,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1784,9 +1784,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1807,9 +1807,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1830,9 +1830,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your feet firmly into the mat to feel grounded",
+      "engage your legs to support your posture",
+      "lift your chest slightly to stay upright"
     ],
     "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
   },
@@ -1854,9 +1854,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1878,9 +1878,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1902,9 +1902,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "fix your gaze forward to support balance",
+      "engage your core to stabilize your body",
+      "root your standing foot down for steadiness"
     ],
     "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
   },
@@ -1923,9 +1923,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -1944,9 +1944,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core muscles to support your spine",
+      "draw your navel in toward your spine for stability",
+      "lift your chest while keeping your core active"
     ],
     "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
   },
@@ -1968,9 +1968,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -1992,9 +1992,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -2016,9 +2016,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -2040,9 +2040,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lift your chest forward and up to open the front body",
+      "engage your glutes gently to support your lower back",
+      "lengthen your spine before bending to avoid compression"
     ],
     "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
   },
@@ -2063,9 +2063,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -2086,9 +2086,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -2109,9 +2109,9 @@
     ],
     "base_duration_min": 3,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "relax your hips downward to encourage release",
+      "keep your hips level to protect your joints",
+      "soften your jaw and face to reduce holding"
     ],
     "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
   },
@@ -2130,9 +2130,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -2151,9 +2151,9 @@
     "contraindications": [],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "lengthen your spine upward before rotating",
+      "rotate your torso from the ribcage rather than the shoulders",
+      "keep your hips steady to focus the twist"
     ],
     "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
   },
@@ -2175,9 +2175,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -2199,9 +2199,9 @@
     ],
     "base_duration_min": 2,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "engage your core to support your spine",
+      "stack your shoulders over your elbows or wrists for stability",
+      "lengthen your neck by lifting away from the shoulders"
     ],
     "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
   },
@@ -2224,9 +2224,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -2249,9 +2249,9 @@
     ],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "press your hands firmly into the mat to activate your arms",
+      "engage your core to lift your body",
+      "shift your weight forward gradually to find balance"
     ],
     "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
   },
@@ -2270,9 +2270,9 @@
     "contraindications": [],
     "base_duration_min": 1,
     "cues": [
-      "Breathe steadily.",
-      "Engage with awareness.",
-      "Move with control."
+      "focus your breath to stay present in the pose",
+      "engage your whole body to support the shape",
+      "maintain steady effort without forcing"
     ],
     "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
   }

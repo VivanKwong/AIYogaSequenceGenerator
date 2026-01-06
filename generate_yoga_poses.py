@@ -123,11 +123,86 @@ POSES = [
 ]
 
 # ---------- DEFAULT CUES ----------
-DEFAULT_CUES = [
-    "Breathe steadily.",
-    "Engage with awareness.",
-    "Move with control."
-]
+CATEGORY_CUES = {
+    "centering": [
+        "lengthen your spine upward to create space for breath",
+        "ground your sit bones down to feel stable",
+        "soften your shoulders away from your ears"
+    ],
+
+    "warm-up": [
+        "move your spine through its full range of motion",
+        "circle your shoulders to release tension",
+        "coordinate your breath with your movement"
+    ],
+
+    "standing": [
+        "press your feet firmly into the mat to feel grounded",
+        "engage your legs to support your posture",
+        "lift your chest slightly to stay upright"
+    ],
+
+    "balance": [
+        "fix your gaze forward to support balance",
+        "engage your core to stabilize your body",
+        "root your standing foot down for steadiness"
+    ],
+
+    "core": [
+        "engage your core muscles to support your spine",
+        "draw your navel in toward your spine for stability",
+        "lift your chest while keeping your core active"
+    ],
+
+    "backbend": [
+        "lift your chest forward and up to open the front body",
+        "engage your glutes gently to support your lower back",
+        "lengthen your spine before bending to avoid compression"
+    ],
+
+    "hip-opener": [
+        "relax your hips downward to encourage release",
+        "keep your hips level to protect your joints",
+        "soften your jaw and face to reduce holding"
+    ],
+
+    "twist": [
+        "lengthen your spine upward before rotating",
+        "rotate your torso from the ribcage rather than the shoulders",
+        "keep your hips steady to focus the twist"
+    ],
+
+    "inversion": [
+        "engage your core to support your spine",
+        "stack your shoulders over your elbows or wrists for stability",
+        "lengthen your neck by lifting away from the shoulders"
+    ],
+
+    "arm-balance": [
+        "press your hands firmly into the mat to activate your arms",
+        "engage your core to lift your body",
+        "shift your weight forward gradually to find balance"
+    ],
+
+    "peak": [
+        "focus your breath to stay present in the pose",
+        "engage your whole body to support the shape",
+        "maintain steady effort without forcing"
+    ],
+
+    "cool-down": [
+        "slow your breath to signal the body to relax",
+        "release your muscles gradually to unwind effort",
+        "support your spine with the mat or props"
+    ],
+
+    "restorative": [
+        "allow your body to fully relax into support",
+        "release your muscles completely with each exhale",
+        "rest your weight downward to encourage recovery"
+    ]
+}
+
 
 # ---------- CONTRAINDICATION MAP ----------
 CONTRAINDICATIONS = {
@@ -158,7 +233,7 @@ def generate_poses(target_count=100):
             "target_body_parts": config["body_parts"],
             "contraindications": CONTRAINDICATIONS.get(category, []),
             "base_duration_min": config["duration"],
-            "cues": DEFAULT_CUES,
+            "cues": CATEGORY_CUES.get(category, []),
             "embedding_text": (
                 f"{name} {sanskrit}: {category} pose targeting "
                 f"{', '.join(config['body_parts'])}. "
