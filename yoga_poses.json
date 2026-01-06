@@ -1,0 +1,2279 @@
+[
+  {
+    "id": "p001",
+    "name": "Easy Seat",
+    "sanskrit_name": "Sukhasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p002",
+    "name": "Mountain Pose",
+    "sanskrit_name": "Tadasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p003",
+    "name": "Neck Rolls",
+    "sanskrit_name": "Greeva Sanchalana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p004",
+    "name": "Cat Pose",
+    "sanskrit_name": "Marjaryasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p005",
+    "name": "Cow Pose",
+    "sanskrit_name": "Bitilasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p006",
+    "name": "Sun Salutation A",
+    "sanskrit_name": "Surya Namaskar A",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p007",
+    "name": "Chair Pose",
+    "sanskrit_name": "Utkatasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p008",
+    "name": "Warrior I",
+    "sanskrit_name": "Virabhadrasana I",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p009",
+    "name": "Warrior II",
+    "sanskrit_name": "Virabhadrasana II",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p010",
+    "name": "Triangle Pose",
+    "sanskrit_name": "Trikonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p011",
+    "name": "Extended Side Angle",
+    "sanskrit_name": "Utthita Parsvakonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p012",
+    "name": "Tree Pose",
+    "sanskrit_name": "Vrksasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p013",
+    "name": "Eagle Pose",
+    "sanskrit_name": "Garudasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p014",
+    "name": "Half Moon Pose",
+    "sanskrit_name": "Ardha Chandrasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p015",
+    "name": "Boat Pose",
+    "sanskrit_name": "Navasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p016",
+    "name": "Forearm Plank",
+    "sanskrit_name": "Makara Adho Mukha Svanasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p017",
+    "name": "Cobra Pose",
+    "sanskrit_name": "Bhujangasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p018",
+    "name": "Locust Pose",
+    "sanskrit_name": "Salabhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p019",
+    "name": "Camel Pose",
+    "sanskrit_name": "Ustrasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p020",
+    "name": "Bridge Pose",
+    "sanskrit_name": "Setu Bandhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p021",
+    "name": "Pigeon Pose",
+    "sanskrit_name": "Eka Pada Rajakapotasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p022",
+    "name": "Goddess Pose",
+    "sanskrit_name": "Utkata Konasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p023",
+    "name": "Seated Forward Fold",
+    "sanskrit_name": "Paschimottanasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p024",
+    "name": "Seated Twist",
+    "sanskrit_name": "Ardha Matsyendrasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p025",
+    "name": "Revolved Lunge",
+    "sanskrit_name": "Parivrtta Anjaneyasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p026",
+    "name": "Shoulder Stand",
+    "sanskrit_name": "Salamba Sarvangasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p027",
+    "name": "Headstand",
+    "sanskrit_name": "Sirsasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p028",
+    "name": "Crow Pose",
+    "sanskrit_name": "Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p029",
+    "name": "Side Crow",
+    "sanskrit_name": "Parsva Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p030",
+    "name": "Firefly Pose",
+    "sanskrit_name": "Tittibhasana",
+    "category": "peak",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p031",
+    "name": "Wheel Pose",
+    "sanskrit_name": "Urdhva Dhanurasana",
+    "category": "peak",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Wheel Pose Urdhva Dhanurasana: peak pose targeting full body. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p032",
+    "name": "Supine Twist",
+    "sanskrit_name": "Supta Matsyendrasana",
+    "category": "cool-down",
+    "intensity": 1,
+    "energy": [
+      "grounding"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Supine Twist Supta Matsyendrasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
+  },
+  {
+    "id": "p033",
+    "name": "Happy Baby",
+    "sanskrit_name": "Ananda Balasana",
+    "category": "cool-down",
+    "intensity": 1,
+    "energy": [
+      "grounding"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Happy Baby Ananda Balasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
+  },
+  {
+    "id": "p034",
+    "name": "Legs Up the Wall",
+    "sanskrit_name": "Viparita Karani",
+    "category": "restorative",
+    "intensity": 1,
+    "energy": [
+      "calm"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 5,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Legs Up the Wall Viparita Karani: restorative pose targeting full body. Intensity 1 with calm energy."
+  },
+  {
+    "id": "p035",
+    "name": "Corpse Pose",
+    "sanskrit_name": "Savasana",
+    "category": "restorative",
+    "intensity": 1,
+    "energy": [
+      "calm"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 5,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Corpse Pose Savasana: restorative pose targeting full body. Intensity 1 with calm energy."
+  },
+  {
+    "id": "p036",
+    "name": "Easy Seat",
+    "sanskrit_name": "Sukhasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p037",
+    "name": "Mountain Pose",
+    "sanskrit_name": "Tadasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p038",
+    "name": "Neck Rolls",
+    "sanskrit_name": "Greeva Sanchalana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p039",
+    "name": "Cat Pose",
+    "sanskrit_name": "Marjaryasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p040",
+    "name": "Cow Pose",
+    "sanskrit_name": "Bitilasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p041",
+    "name": "Sun Salutation A",
+    "sanskrit_name": "Surya Namaskar A",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p042",
+    "name": "Chair Pose",
+    "sanskrit_name": "Utkatasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p043",
+    "name": "Warrior I",
+    "sanskrit_name": "Virabhadrasana I",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p044",
+    "name": "Warrior II",
+    "sanskrit_name": "Virabhadrasana II",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p045",
+    "name": "Triangle Pose",
+    "sanskrit_name": "Trikonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p046",
+    "name": "Extended Side Angle",
+    "sanskrit_name": "Utthita Parsvakonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p047",
+    "name": "Tree Pose",
+    "sanskrit_name": "Vrksasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p048",
+    "name": "Eagle Pose",
+    "sanskrit_name": "Garudasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p049",
+    "name": "Half Moon Pose",
+    "sanskrit_name": "Ardha Chandrasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p050",
+    "name": "Boat Pose",
+    "sanskrit_name": "Navasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p051",
+    "name": "Forearm Plank",
+    "sanskrit_name": "Makara Adho Mukha Svanasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p052",
+    "name": "Cobra Pose",
+    "sanskrit_name": "Bhujangasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p053",
+    "name": "Locust Pose",
+    "sanskrit_name": "Salabhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p054",
+    "name": "Camel Pose",
+    "sanskrit_name": "Ustrasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p055",
+    "name": "Bridge Pose",
+    "sanskrit_name": "Setu Bandhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p056",
+    "name": "Pigeon Pose",
+    "sanskrit_name": "Eka Pada Rajakapotasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p057",
+    "name": "Goddess Pose",
+    "sanskrit_name": "Utkata Konasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p058",
+    "name": "Seated Forward Fold",
+    "sanskrit_name": "Paschimottanasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p059",
+    "name": "Seated Twist",
+    "sanskrit_name": "Ardha Matsyendrasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p060",
+    "name": "Revolved Lunge",
+    "sanskrit_name": "Parivrtta Anjaneyasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p061",
+    "name": "Shoulder Stand",
+    "sanskrit_name": "Salamba Sarvangasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p062",
+    "name": "Headstand",
+    "sanskrit_name": "Sirsasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p063",
+    "name": "Crow Pose",
+    "sanskrit_name": "Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p064",
+    "name": "Side Crow",
+    "sanskrit_name": "Parsva Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p065",
+    "name": "Firefly Pose",
+    "sanskrit_name": "Tittibhasana",
+    "category": "peak",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p066",
+    "name": "Wheel Pose",
+    "sanskrit_name": "Urdhva Dhanurasana",
+    "category": "peak",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Wheel Pose Urdhva Dhanurasana: peak pose targeting full body. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p067",
+    "name": "Supine Twist",
+    "sanskrit_name": "Supta Matsyendrasana",
+    "category": "cool-down",
+    "intensity": 1,
+    "energy": [
+      "grounding"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Supine Twist Supta Matsyendrasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
+  },
+  {
+    "id": "p068",
+    "name": "Happy Baby",
+    "sanskrit_name": "Ananda Balasana",
+    "category": "cool-down",
+    "intensity": 1,
+    "energy": [
+      "grounding"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Happy Baby Ananda Balasana: cool-down pose targeting spine. Intensity 1 with grounding energy."
+  },
+  {
+    "id": "p069",
+    "name": "Legs Up the Wall",
+    "sanskrit_name": "Viparita Karani",
+    "category": "restorative",
+    "intensity": 1,
+    "energy": [
+      "calm"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 5,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Legs Up the Wall Viparita Karani: restorative pose targeting full body. Intensity 1 with calm energy."
+  },
+  {
+    "id": "p070",
+    "name": "Corpse Pose",
+    "sanskrit_name": "Savasana",
+    "category": "restorative",
+    "intensity": 1,
+    "energy": [
+      "calm"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 5,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Corpse Pose Savasana: restorative pose targeting full body. Intensity 1 with calm energy."
+  },
+  {
+    "id": "p071",
+    "name": "Easy Seat",
+    "sanskrit_name": "Sukhasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Easy Seat Sukhasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p072",
+    "name": "Mountain Pose",
+    "sanskrit_name": "Tadasana",
+    "category": "centering",
+    "intensity": 1,
+    "energy": [
+      "grounding",
+      "calm"
+    ],
+    "target_body_parts": [
+      "spine",
+      "hips"
+    ],
+    "contraindications": [],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Mountain Pose Tadasana: centering pose targeting spine, hips. Intensity 1 with grounding, calm energy."
+  },
+  {
+    "id": "p073",
+    "name": "Neck Rolls",
+    "sanskrit_name": "Greeva Sanchalana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Neck Rolls Greeva Sanchalana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p074",
+    "name": "Cat Pose",
+    "sanskrit_name": "Marjaryasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cat Pose Marjaryasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p075",
+    "name": "Cow Pose",
+    "sanskrit_name": "Bitilasana",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cow Pose Bitilasana: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p076",
+    "name": "Sun Salutation A",
+    "sanskrit_name": "Surya Namaskar A",
+    "category": "warm-up",
+    "intensity": 1,
+    "energy": [
+      "fluid"
+    ],
+    "target_body_parts": [
+      "spine",
+      "shoulders"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Sun Salutation A Surya Namaskar A: warm-up pose targeting spine, shoulders. Intensity 1 with fluid energy."
+  },
+  {
+    "id": "p077",
+    "name": "Chair Pose",
+    "sanskrit_name": "Utkatasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Chair Pose Utkatasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p078",
+    "name": "Warrior I",
+    "sanskrit_name": "Virabhadrasana I",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior I Virabhadrasana I: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p079",
+    "name": "Warrior II",
+    "sanskrit_name": "Virabhadrasana II",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Warrior II Virabhadrasana II: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p080",
+    "name": "Triangle Pose",
+    "sanskrit_name": "Trikonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Triangle Pose Trikonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p081",
+    "name": "Extended Side Angle",
+    "sanskrit_name": "Utthita Parsvakonasana",
+    "category": "standing",
+    "intensity": 3,
+    "energy": [
+      "fiery",
+      "steady"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Extended Side Angle Utthita Parsvakonasana: standing pose targeting legs, core. Intensity 3 with fiery, steady energy."
+  },
+  {
+    "id": "p082",
+    "name": "Tree Pose",
+    "sanskrit_name": "Vrksasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Tree Pose Vrksasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p083",
+    "name": "Eagle Pose",
+    "sanskrit_name": "Garudasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Eagle Pose Garudasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p084",
+    "name": "Half Moon Pose",
+    "sanskrit_name": "Ardha Chandrasana",
+    "category": "balance",
+    "intensity": 3,
+    "energy": [
+      "focused"
+    ],
+    "target_body_parts": [
+      "legs",
+      "core"
+    ],
+    "contraindications": [
+      "ankle injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Half Moon Pose Ardha Chandrasana: balance pose targeting legs, core. Intensity 3 with focused energy."
+  },
+  {
+    "id": "p085",
+    "name": "Boat Pose",
+    "sanskrit_name": "Navasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Boat Pose Navasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p086",
+    "name": "Forearm Plank",
+    "sanskrit_name": "Makara Adho Mukha Svanasana",
+    "category": "core",
+    "intensity": 4,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "core"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Forearm Plank Makara Adho Mukha Svanasana: core pose targeting core. Intensity 4 with fiery energy."
+  },
+  {
+    "id": "p087",
+    "name": "Cobra Pose",
+    "sanskrit_name": "Bhujangasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Cobra Pose Bhujangasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p088",
+    "name": "Locust Pose",
+    "sanskrit_name": "Salabhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Locust Pose Salabhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p089",
+    "name": "Camel Pose",
+    "sanskrit_name": "Ustrasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Camel Pose Ustrasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p090",
+    "name": "Bridge Pose",
+    "sanskrit_name": "Setu Bandhasana",
+    "category": "backbend",
+    "intensity": 3,
+    "energy": [
+      "energizing"
+    ],
+    "target_body_parts": [
+      "spine",
+      "chest"
+    ],
+    "contraindications": [
+      "low back injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Bridge Pose Setu Bandhasana: backbend pose targeting spine, chest. Intensity 3 with energizing energy."
+  },
+  {
+    "id": "p091",
+    "name": "Pigeon Pose",
+    "sanskrit_name": "Eka Pada Rajakapotasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Pigeon Pose Eka Pada Rajakapotasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p092",
+    "name": "Goddess Pose",
+    "sanskrit_name": "Utkata Konasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Goddess Pose Utkata Konasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p093",
+    "name": "Seated Forward Fold",
+    "sanskrit_name": "Paschimottanasana",
+    "category": "hip-opener",
+    "intensity": 3,
+    "energy": [
+      "releasing"
+    ],
+    "target_body_parts": [
+      "hips"
+    ],
+    "contraindications": [
+      "knee injury"
+    ],
+    "base_duration_min": 3,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Forward Fold Paschimottanasana: hip-opener pose targeting hips. Intensity 3 with releasing energy."
+  },
+  {
+    "id": "p094",
+    "name": "Seated Twist",
+    "sanskrit_name": "Ardha Matsyendrasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Seated Twist Ardha Matsyendrasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p095",
+    "name": "Revolved Lunge",
+    "sanskrit_name": "Parivrtta Anjaneyasana",
+    "category": "twist",
+    "intensity": 2,
+    "energy": [
+      "cleansing"
+    ],
+    "target_body_parts": [
+      "spine"
+    ],
+    "contraindications": [],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Revolved Lunge Parivrtta Anjaneyasana: twist pose targeting spine. Intensity 2 with cleansing energy."
+  },
+  {
+    "id": "p096",
+    "name": "Shoulder Stand",
+    "sanskrit_name": "Salamba Sarvangasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Shoulder Stand Salamba Sarvangasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p097",
+    "name": "Headstand",
+    "sanskrit_name": "Sirsasana",
+    "category": "inversion",
+    "intensity": 4,
+    "energy": [
+      "steady"
+    ],
+    "target_body_parts": [
+      "core",
+      "neck"
+    ],
+    "contraindications": [
+      "neck injury"
+    ],
+    "base_duration_min": 2,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Headstand Sirsasana: inversion pose targeting core, neck. Intensity 4 with steady energy."
+  },
+  {
+    "id": "p098",
+    "name": "Crow Pose",
+    "sanskrit_name": "Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Crow Pose Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p099",
+    "name": "Side Crow",
+    "sanskrit_name": "Parsva Bakasana",
+    "category": "arm-balance",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "arms",
+      "core",
+      "wrists"
+    ],
+    "contraindications": [
+      "wrist injury"
+    ],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Side Crow Parsva Bakasana: arm-balance pose targeting arms, core, wrists. Intensity 5 with fiery energy."
+  },
+  {
+    "id": "p100",
+    "name": "Firefly Pose",
+    "sanskrit_name": "Tittibhasana",
+    "category": "peak",
+    "intensity": 5,
+    "energy": [
+      "fiery"
+    ],
+    "target_body_parts": [
+      "full body"
+    ],
+    "contraindications": [],
+    "base_duration_min": 1,
+    "cues": [
+      "Breathe steadily.",
+      "Engage with awareness.",
+      "Move with control."
+    ],
+    "embedding_text": "Firefly Pose Tittibhasana: peak pose targeting full body. Intensity 5 with fiery energy."
+  }
+]
