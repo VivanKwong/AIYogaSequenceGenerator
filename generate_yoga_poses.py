@@ -1,5 +1,7 @@
 import json
 from itertools import cycle
+from sentence_transformers import SentenceTransformer
+import time
 
 # ---------- CATEGORY TEMPLATES ----------
 CATEGORY_CONFIG = {
@@ -248,10 +250,80 @@ def generate_poses(target_count=100):
     return poses
 
 
-if __name__ == "__main__":
-    yoga_poses = generate_poses(100)
+def generate_embeddings(poses, model_name='all-MiniLM-L6-v2'):
+    """
+    Generate semantic embeddings for each pose using sentence-transformers.
+    
+    Args:
+        poses: List of pose dictionaries
+        model_name: Name of the sentence-transformers model to use
+    
+    Returns:
+        poses with 'embedding' field added
+    """
+    print(f"Loading embedding model: {model_name}...")
+    print("(This may take a moment on first run as the model downloads)")
+    
+    start_time = time.time()
+    model = SentenceTransformer(model_name)
+    load_time = time.time() - start_time
+    print(f"✓ Model loaded in {load_time:.2f} seconds")
+    
+    print(f"\nGenerating embeddings for {len(poses)} poses...")
+    start_time = time.time()
+    
+    # Extract all embedding texts
+    embedding_texts = [pose['embedding_text'] for pose in poses]
+    
+    # Generate embeddings in batch (much faster than one at a time)
+    embeddings = model.encode(embedding_texts, show_progress_bar=True)
+    
+    # Add embeddings to poses
+    for pose, embedding in zip(poses, embeddings):
+        pose['embedding'] = embedding.tolist()  # Convert numpy array to list for JSON
+    
+    generation_time = time.time() - start_time
+    print(f"✓ Generated {len(poses)} embeddings in {generation_time:.2f} seconds")
+    print(f"  ({len(poses)/generation_time:.1f} poses/second)")
+    print(f"  Embedding dimensions: {len(embeddings[0])}")
+    
+    return poses
 
+
+if __name__ == "__main__":
+    print("=" * 60)
+    print("AI Yoga Sequence Generator - Pose & Embedding Generation")
+    print("=" * 60)
+    print()
+    
+    # Generate poses
+    print("Step 1: Generating pose library...")
+    yoga_poses = generate_poses(100)
+    print(f"✓ Generated {len(yoga_poses)} poses from {len(POSES)} base poses")
+    print()
+    
+    # Generate embeddings
+    print("Step 2: Generating semantic embeddings...")
+    yoga_poses = generate_embeddings(yoga_poses)
+    print()
+    
+    # Save to JSON
+    print("Step 3: Saving to yoga_poses.json...")
     with open("yoga_poses.json", "w") as f:
         json.dump(yoga_poses, f, indent=2)
-
-    print("Generated yoga_poses.json with 100 poses.")
+    
+    print("✓ Saved yoga_poses.json")
+    print()
+    
+    # Show sample
+    print("=" * 60)
+    print("Sample Pose with Embedding:")
+    print("=" * 60)
+    sample = yoga_poses[0]
+    print(f"Name: {sample['name']}")
+    print(f"Category: {sample['category']}")
+    print(f"Embedding text: {sample['embedding_text']}")
+    print(f"Embedding (first 10 values): {sample['embedding'][:10]}...")
+    print(f"Embedding (last 10 values): ...{sample['embedding'][-10:]}")
+    print()
+    print("🧘‍♀️ Ready for intelligent sequence generation!")
