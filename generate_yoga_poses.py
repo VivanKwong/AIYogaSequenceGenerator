@@ -214,13 +214,13 @@ CONTRAINDICATIONS = {
 }
 
 # ---------- GENERATION ----------
-def generate_poses(target_count=100):
+def generate_poses():
     poses = []
     id_counter = 1
-    pose_cycle = cycle(POSES)
+    # pose_cycle = cycle(POSES)
 
-    while len(poses) < target_count:
-        name, sanskrit, category = next(pose_cycle)
+    for pose in POSES:
+        name, sanskrit, category = pose
         config = CATEGORY_CONFIG[category]
 
         pose = {
@@ -249,9 +249,9 @@ def generate_poses(target_count=100):
 
 
 if __name__ == "__main__":
-    yoga_poses = generate_poses(100)
+    yoga_poses = generate_poses()
 
     with open("yoga_poses.json", "w") as f:
         json.dump(yoga_poses, f, indent=2)
 
-    print("Generated yoga_poses.json with 100 poses.")
+    print(f"Generated yoga_poses.json with {len(yoga_poses)} poses.")
