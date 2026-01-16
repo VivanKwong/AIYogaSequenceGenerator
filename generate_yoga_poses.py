@@ -219,7 +219,6 @@ CONTRAINDICATIONS = {
 def generate_poses():
     poses = []
     id_counter = 1
-    # pose_cycle = cycle(POSES)
 
     for pose in POSES:
         name, sanskrit, category = pose
@@ -298,7 +297,7 @@ if __name__ == "__main__":
     
     # Generate poses
     print("Step 1: Generating pose library...")
-    yoga_poses = generate_poses(100)
+    yoga_poses = generate_poses()
     print(f"✓ Generated {len(yoga_poses)} poses from {len(POSES)} base poses")
     print()
     
